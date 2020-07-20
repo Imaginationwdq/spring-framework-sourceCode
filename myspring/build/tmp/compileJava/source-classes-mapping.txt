@@ -1,0 +1,8 @@
+com/wdq/services/A.java
+ com.wdq.services.A
+com/wdq/test/Test.java
+ com.wdq.test.Test
+com/wdq/app/Appconfig.java
+ com.wdq.app.Appconfig
+com/wdq/services/B.java
+ com.wdq.services.B
